@@ -11,7 +11,7 @@ is collected and send to errormator:
 * The URL for the current page
 
 Jerrormator has no external dependencies. To use it you need to load its
-javascript and initialise it with your errormator API key.
+javascript and initialise it with your errormator PUBLIC API key.
 
 ::
 
